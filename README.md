@@ -1,6 +1,5 @@
 ### Oiie ✌️
-Atualmente aprendendo sobre programação, desenvolvimento de sistemas e tecnologia!
-
+Atualmente aprendendo sobre programação e desenvolvimento de sistemas. 
   <a href="https://github.com/noelyxlima">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=noelyxlima&show_icons=false&theme=tokyonight&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noelyxlima&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -18,7 +17,8 @@ Atualmente aprendendo sobre programação, desenvolvimento de sistemas e tecnolo
  
   <a href="https://instagram.com/nx.elly" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:noeyxlima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/noelyelen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-
+  
+ <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/54bb8328053b9e224ce335978a976071.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a>  
  
   ![Snake animation](https://github.com/noelyxlima/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
